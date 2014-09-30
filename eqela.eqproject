@@ -1,0 +1,9 @@
+
+#
+# Project configuration file for
+# BouncingRectangle
+#
+
+projectname: BouncingRectangle
+vendorid: com.mycompany
+mainmodule: com.mycompany.bouncingrectangle
